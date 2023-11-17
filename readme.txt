@@ -1,6 +1,6 @@
 === Simple Investment Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: investment calculator, return rate calculation, financial investment analysis, starting amount estimation, end amount projection, investment length assessment, additional contribution impact, CD investments, bond investment risk evaluation
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0

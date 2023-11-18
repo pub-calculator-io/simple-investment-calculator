@@ -1,4 +1,4 @@
-# Simple Investment Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Simple Investment Calculator Widget for WordPress
 
 Free investment calculator that uses the formula PV (1 + R)^n to help investors understand how to calculate investment returns and analyze investments.
 

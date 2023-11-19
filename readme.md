@@ -7,7 +7,7 @@ Free investment calculator that uses the formula PV (1 + R)^n to help investors 
 
 ## Installation
 
-1. [Download](https://github.com/pub-calculator-io/age-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
+1. [Download](https://github.com/pub-calculator-io/simple-investment-calculator/archive/refs/heads/master.zip) the ZIP file of this repository.
 2. Upload the /simple-investment-calculator-master/ folder to the /wp-content/plugins/ directory.
 3. Activate the [Simple Investment Calculator](https://www.calculator.io/simple-investment-calculator/ "Simple Investment Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 

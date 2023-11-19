@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Simple Investment Calculator by www.calculator.io
+Plugin Name: CI Simple investment calculator
 Plugin URI: https://www.calculator.io/simple-investment-calculator/
 Description: Free investment calculator that uses the formula PV (1 + R)^n to help investors understand how to calculate investment returns and analyze investments.
 Version: 1.0.0

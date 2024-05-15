@@ -1,9 +1,8 @@
 # Simple Investment Calculator Widget for WordPress
 
-Free investment calculator that uses the formula PV (1 + R)^n to help investors understand how to calculate investment returns and analyze investments.
+Free investment calculator that uses the formula PV (1 + R)ⁿ to help investors understand how to calculate investment returns and analyze investments.
 
 ![Simple Investment Calculator Input Form](/assets/images/screenshot-1.png "Simple Investment Calculator Input Form")
-![Simple Investment Calculator Calculation Results](/assets/images/screenshot-2.png "Simple Investment Calculator Calculation Results")
 
 ## Installation
 

@@ -7,7 +7,7 @@ Stable tag: 1.0.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Free investment calculator that uses the formula PV (1 + R)^n to help investors understand how to calculate investment returns and analyze investments.
+Free investment calculator that uses the formula PV (1 + R)ⁿ to help investors understand how to calculate investment returns and analyze investments.
 
 [https://www.calculator.io/simple-investment-calculator/](https://www.calculator.io/simple-investment-calculator/)
 
@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Simple Investme
 == Screenshots ==
 
 1. The Simple Investment Calculator Input Form.
-2. The Simple Investment Calculator Calculation Results.
 
 == Installation ==
 
